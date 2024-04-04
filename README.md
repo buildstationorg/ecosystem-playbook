@@ -1,4 +1,4 @@
-# Ecosystem Zero to One
+# Ecosystem Playbook
 A playbook on how to build a thriving ecosystem of builders
 
 ## Introduction
