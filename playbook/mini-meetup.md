@@ -9,3 +9,9 @@ The ideal size this meetup style is 10 to 20 attendees. This allows the host to 
 
 # Frequency
 It is vital that buildstation meetup to occur weekly. This allows the host to quickly iterate on moderation style and instills a habit within the attendees to come to the meetup. Regular attendees also become a good referral source for new attendees to join.
+
+# Location
+Depending on the cultural context, select a location that is affordable, food and drinks are available as refreshments for attendees. Ideally, the venue should not charge for venue rental, only food and drinks cost (which is a lot less than venue rental).
+
+# Pre-meetup
+The host should be keeping tabs of what's going on right now in the crypto space, both internationally and locally. This includes major events, announcements, discussions, controversies, etc. These can be potential topics for discussion during the meetup. At the same time, the host should monitor the community groups to check on and resolve all the questions, or requests from the attendees. buildstation suggests using Telegram or Discord for the community group but the host can choose his/her preferred social platform.
