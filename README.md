@@ -1,5 +1,5 @@
 # Ecosystem Playbook
-A playbook on how to build a thriving ecosystem of builders
+A playbook on how to build a thriving ecosystem of builders.
 
 ## Introduction
 This repository is a collection of concepts, strategies and experiements that the buildstation core team and community have undertaken over the years. Feel free to use this as guideance for your. We only ask that if you used this playbook, please reach out to us for collaboration or give attribution to buildstation in your campaign. The community continuously innovates new things which will be updated in this repository over time.
