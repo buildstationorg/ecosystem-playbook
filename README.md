@@ -6,11 +6,3 @@ This repository is a collection of concepts, strategies and experiements that th
 
 ## What this repository is not
 This repository is freely available to everyone but it does not mean that buildstation is a marketing agency. The core team does not take marketing job requests, nor we are interested in doing so. We are a community of passionate developers that want to elevate the global hacker movement and shape the future of finance.
-
-## Concepts
-
-
-## Strategies
-
-
-## Current experiments
